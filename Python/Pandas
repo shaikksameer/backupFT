@@ -1,0 +1,58 @@
+1. What is pandas?
+    Pandas is an open-source Python package that is most commonly used for data science, data analysis, and machine learning tasks. It is built on top of another library named Numpy. 
+
+2. different types of Data Structures in Pandas?
+    Series: It is a one-dimensional array-like structure with homogeneous data which means data of different data types cannot be a part of the same series
+    value are mutable 
+    size is immutable
+    cannot contains multiple columns
+
+
+    DataFrame: It is a two-dimensional array-like structure with heterogeneous data. It can contain data of different data types and the data is aligned in a tabular manner. Both size and values of DataFrame are mutable.
+    value are mutable 
+    size is mutable
+
+    Panel: The Pandas have a third type of data structure known as Panel, which is a 3D data structure capable of storing heterogeneous data but it isn’t that widely used
+
+    to create series using pandas :
+    import pandas as pd
+    ser = pd.Series()    
+    print(ser)
+
+    to create dataframe using pandas : 
+    import pandas as pd     
+    data = [10,20,30,40,50,60]    
+    df = pd.DataFrame(data, columns=['Numbers'])
+
+    to create panel using pandas :
+    import pandas as pd
+    import numpy as np    
+    data = np.random.rand(2,4,5)
+    p = pd.Panel(data)
+    print p
+
+
+3. significant features of the pandas Library?
+
+    Fast and efficient
+    Data alignment and integrated handling
+    Reshaping and pivoting of data sets.
+    Columns from a data structure can be deleted or inserted.
+
+4. How can we create a copy of the series in Pandas?
+
+    We can create a copy of the series by using the following syntax: Series.copy(deep=True)
+
+5. Give a brief description of time series in Panda?
+
+    A time series is an organized collection of data that depicts the evolution of a quantity through time. Pandas have a wide range of capabilities and tools for working with time-series data in all fields.
+
+    Supported by pandas:
+
+    Analyzing time-series data from a variety of sources and formats.
+    Create time and date sequences with preset frequencies.
+    Date and time manipulation and conversion with timezone information.
+    A time series is resampled or converted to a specific frequency.
+    Calculating dates and times using absolute or relative time increments is one way to.
+
+6. MultiIndexing in Pandas.

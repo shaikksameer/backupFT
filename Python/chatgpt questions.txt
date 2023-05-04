@@ -1,0 +1,19 @@
+What is your experience with SQL and database management systems? Can you give an example of a complex SQL query you have written in the past?
+
+How would you design and implement an ETL process for a large-scale data warehouse using Python and/or a cloud-based data integration platform like AWS Glue or Google Cloud Dataflow?
+
+Can you explain the concept of data normalization and why it is important in database design? How would you go about normalizing a complex dataset?
+
+How would you approach data cleaning and preprocessing tasks for a large and complex dataset with missing or inconsistent data? Can you give an example of a specific data cleaning technique you have used in the past?
+
+Can you explain the concept of data pipelines and how they are used in data engineering projects? How would you design and implement a data pipeline using Python and/or a cloud-based data processing platform like AWS Lambda or Google Cloud Functions?
+
+How would you optimize the performance of a large-scale data processing task using distributed computing techniques like Hadoop or Spark? Can you give an example of a specific optimization technique you have used in the past?
+
+How would you approach the task of data visualization and exploration using Python and/or a data visualization library like Matplotlib or Plotly? Can you give an example of a specific visualization you have created in the past?
+
+Can you explain the concept of machine learning and how it is used in data engineering projects? How would you go about selecting and implementing a machine learning algorithm for a specific use case?
+
+How would you approach the task of data governance and data security in a large-scale data engineering project? Can you give an example of a specific data security technique you have used in the past?
+
+Can you explain the concept of DevOps and how it is used in data engineering projects? How would you go about implementing a DevOps process for a data engineering project?

@@ -1,0 +1,19 @@
+What is Azure Data Factory, and what are its main components?
+
+How do you create a pipeline in Azure Data Factory, and what are some common pipeline activities you might use?
+
+Can you explain the difference between a linked service and a dataset in Azure Data Factory?
+
+How do you monitor and manage Azure Data Factory pipelines, and what are some best practices for troubleshooting issues?
+
+Can you describe your experience with Azure Data Factory integration with other Azure services, such as Azure Storage, Azure Data Lake Storage, and Azure SQL Database?
+
+What are some common data integration use cases for Azure Data Factory, and can you walk me through how you would approach one?
+
+How do you optimize Azure Data Factory performance, and what are some best practices for Azure Data Factory configuration?
+
+Can you discuss your experience with Azure Data Factory security and access control, and how you have implemented security measures in previous projects?
+
+What are some common challenges you have encountered while working with Azure Data Factory, and how have you addressed them?
+
+Can you explain how you might use Azure Data Factory to perform incremental data loading or change data capture (CDC) from a source system?

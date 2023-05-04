@@ -1,0 +1,19 @@
+-> What is Hadoop, and what are its main components?
+
+-> How do Hadoop's MapReduce and HDFS work together to process and store large amounts of data?
+ 
+-> How does Hadoop ensure data reliability and fault tolerance?
+ 
+-> Can you explain the difference between Hadoop's block size and replication factor, and how they affect data storage and processing?
+
+-> How do you optimize Hadoop performance, and what are some best practices for Hadoop cluster configuration?
+
+-> What are some common data processing use cases for Hadoop, and can you walk me through how you would approach one?
+
+-> How do you debug and troubleshoot Hadoop issues, such as failed jobs or data node failures?
+
+-> Can you describe your experience with Hadoop ecosystem tools such as Hive, Pig, and Spark, and how you have used them in previous projects?
+
+-> What are some common challenges you have encountered while working with Hadoop, and how have you addressed them?
+
+-> Can you discuss your experience with Hadoop security and access control, and how you have implemented security measures in previous projects?

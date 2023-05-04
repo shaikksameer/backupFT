@@ -1,0 +1,9 @@
+linux =>  cli OS (command line interface) 
+
+-> linux is open source 
+-> security (encryption, Permission, Managment)
+-> resource uitlization  (deployment, cost less, time less)
+-> custimization 
+
+-----------------------------------------------------------------------
+

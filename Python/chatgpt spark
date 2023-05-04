@@ -1,0 +1,23 @@
+What is Apache Spark, and how does it differ from Hadoop?
+
+Can you explain Spark's RDD (Resilient Distributed Datasets) and how they work?
+
+What is Spark's DataFrame API, and how does it compare to RDDs?
+
+How do Spark's transformations and actions work, and what are some examples of each?
+
+How do you optimize Spark performance, and what are some best practices for Spark cluster configuration?
+
+What are some common data processing use cases for Spark, and can you walk me through how you would approach one?
+
+Can you describe your experience with Spark's machine learning library (MLlib), and how you have used it in previous projects?
+
+What are some common challenges you have encountered while working with Spark, and how have you addressed them?
+
+Can you discuss your experience with Spark streaming, and how you have used it in previous projects?
+
+What is Spark's GraphX library, and what are some use cases for it?
+
+Can you explain the difference between Spark's standalone, YARN, and Mesos cluster managers, and when you might choose to use each one?
+
+How do you debug and troubleshoot Spark issues, such as failed jobs or slow performance?

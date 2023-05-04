@@ -1,0 +1,10 @@
+-> What is the difference between a tuple and a list in Python? How would you use each data structure?
+-> How would you handle missing or null values in a dataset using Python?
+-> Explain the purpose and usage of the NumPy library in Python. Give an example of a NumPy operation you might use in data analysis.
+-> Write a Python function to calculate the mean and standard deviation of a list of numbers.
+-> How would you use the pandas library in Python to manipulate and analyze tabular data? Give an example.
+-> Explain the purpose and usage of regular expressions in Python. Give an example of a regular expression you might use in data preprocessing.
+-> What is the purpose of the map() and filter() functions in Python? Give an example of how you might use them in data analysis.
+-> How would you use the scikit-learn library in Python to perform machine learning tasks? Give an example of a machine learning algorithm you might use and how you would implement it.
+-> Explain the concept of object-oriented programming in Python. Give an example of how you might use classes and objects in a data engineering project.
+-> How would you optimize the performance of a Python script that processes a large amount of data? Give an example of a technique you might use to improve the script's efficiency.
